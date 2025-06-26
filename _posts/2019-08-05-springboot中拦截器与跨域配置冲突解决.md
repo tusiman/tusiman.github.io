@@ -1,7 +1,7 @@
 ---
 layout: post
 title: springboot中拦截器与跨域配置冲突解决
-date: '2025-06-25 10:40:48 +0800'
+date: '2019-08-05 10:40:48 +0800'
 categories: [JAVA, 框架]
 tags: [springboot]
 author: tusiman
